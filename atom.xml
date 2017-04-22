@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://phexus.github.io/"/>
   <updated>2017-04-22T04:13:24.737Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://phexus.github.io/</id>
   
   <author>
     <name>phexus</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/04/22/hello-world/"/>
-    <id>http://yoursite.com/2017/04/22/hello-world/</id>
+    <link href="https://phexus.github.io/2017/04/22/hello-world/"/>
+    <id>https://phexus.github.io/2017/04/22/hello-world/</id>
     <published>2017-04-22T04:13:24.737Z</published>
     <updated>2017-04-22T04:13:24.737Z</updated>
     
